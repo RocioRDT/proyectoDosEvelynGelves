@@ -160,7 +160,7 @@ li.item-menu a {
 }	
 	
 li.item-menu :hover {	
-	background-color: rgba(59, 106, 21, 0.801);	
+	background-color: rgb(234, 247, 203);	
     transition: background-color 0.3s;	
 }	
 	
